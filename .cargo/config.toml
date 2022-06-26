@@ -1,0 +1,2 @@
+[build]
+rustflags = ["-A", "dead_code","-C", "target-cpu=native"] 
